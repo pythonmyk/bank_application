@@ -1,0 +1,3 @@
+transaction_reference,date,description,amount,currency
+DEF003XYZ4567890,2023-07-01,Shopping,2000.00,USD
+XYZ006ABC1237890,2023-07-02,Withdrawal,-7000.00,USD
